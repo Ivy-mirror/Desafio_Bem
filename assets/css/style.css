@@ -28,7 +28,7 @@ html, body {
   font-weight: 700;
 }
 
-.logo-small {
+.logo--small {
   height: 3.5rem;
 }
 
@@ -75,10 +75,10 @@ html, body {
      object-fit: cover;
 }
 
-.v-post-small {
+.v-post--small {
   width: 18rem;
 }
-.v-post-small .v-post__img {
+.v-post--small .v-post__img {
   height: 8rem;
 }
 
@@ -178,6 +178,6 @@ html, body {
   font-weight: 400;
 }
 
-.user-small {
+.user--small {
   height: 2rem;
-}
+}/*# sourceMappingURL=style.css.map */
